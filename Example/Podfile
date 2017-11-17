@@ -1,0 +1,13 @@
+install! 'cocoapods', :deterministic_uuids => false
+use_frameworks!
+platform :ios, "9.0"
+
+target 'YLT_FFMpeg_Example' do
+  pod 'YLT_FFMpeg', :path => '../'
+
+  target 'YLT_FFMpeg_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

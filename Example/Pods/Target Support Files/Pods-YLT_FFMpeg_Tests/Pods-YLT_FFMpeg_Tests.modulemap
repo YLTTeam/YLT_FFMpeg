@@ -1,0 +1,6 @@
+framework module Pods_YLT_FFMpeg_Tests {
+  umbrella header "Pods-YLT_FFMpeg_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

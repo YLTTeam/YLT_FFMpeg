@@ -1,5 +1,5 @@
 PODS:
-  - YLT_FFMpeg (0.1.0)
+  - YLT_FFMpeg (0.0.1)
 
 DEPENDENCIES:
   - YLT_FFMpeg (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  YLT_FFMpeg: e4bbb03a27d3b4f209333d14bcff255cf3c0d028
+  YLT_FFMpeg: e8a11354237c8e8d9dff68e38338135982acfa32
 
 PODFILE CHECKSUM: b55d5a2b10d71ecd8e9bf73d745bb9ec0a73a1a2
 

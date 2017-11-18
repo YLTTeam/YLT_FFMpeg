@@ -13,7 +13,7 @@
 #import <libavfilter/avfilter.h>
 #import <libavformat/avformat.h>
 #import <libavutil/avutil.h>
-#import <libavswresample/swresample.h>
+#import <libswresample/swresample.h>
 #import <libswscale/swscale.h>
 
 #endif /* YLT_FFMpeg_h */
